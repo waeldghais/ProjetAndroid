@@ -14,7 +14,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity   
+        <activity
             android:name=".acceil"
             android:label="@string/title_activity_login_display" />
     </application>
