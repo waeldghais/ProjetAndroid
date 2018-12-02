@@ -15,7 +15,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".LoginDisplayActivity"
+            android:name=".acceil"
             android:label="@string/title_activity_login_display" />
     </application>
 
